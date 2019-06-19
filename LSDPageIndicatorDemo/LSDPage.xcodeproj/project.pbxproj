@@ -20,7 +20,6 @@
 		363F92C422BA252500AD120D /* LSDDefaultView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 363F92BA22BA252500AD120D /* LSDDefaultView.swift */; };
 		363F92C522BA252500AD120D /* LSDInputView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 363F92BB22BA252500AD120D /* LSDInputView.swift */; };
 		363F92C622BA252500AD120D /* LSDDefaultSlider.swift in Sources */ = {isa = PBXBuildFile; fileRef = 363F92BC22BA252500AD120D /* LSDDefaultSlider.swift */; };
-		363F92C822BA29CC00AD120D /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 363F92C722BA29CB00AD120D /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -39,7 +38,6 @@
 		363F92BA22BA252500AD120D /* LSDDefaultView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LSDDefaultView.swift; sourceTree = "<group>"; };
 		363F92BB22BA252500AD120D /* LSDInputView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LSDInputView.swift; sourceTree = "<group>"; };
 		363F92BC22BA252500AD120D /* LSDDefaultSlider.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LSDDefaultSlider.swift; sourceTree = "<group>"; };
-		363F92C722BA29CB00AD120D /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -72,7 +70,6 @@
 		363F929E22BA24F400AD120D /* LSDPage */ = {
 			isa = PBXGroup;
 			children = (
-				363F92C722BA29CB00AD120D /* README.md */,
 				363F92B122BA252400AD120D /* LSDPageDemo */,
 				363F92B722BA252500AD120D /* LSDPageIndicator */,
 				363F92A322BA24F500AD120D /* Main.storyboard */,
@@ -167,7 +164,6 @@
 			files = (
 				363F92AA22BA24F700AD120D /* LaunchScreen.storyboard in Resources */,
 				363F92A722BA24F700AD120D /* Assets.xcassets in Resources */,
-				363F92C822BA29CC00AD120D /* README.md in Resources */,
 				363F92A522BA24F500AD120D /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
