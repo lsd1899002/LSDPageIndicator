@@ -1,5 +1,10 @@
 #  中文介绍
 我是一个来自贫困山区的iOS开发者，不会英文。
+
+# 集成
+
+把LSDPageIndicator拖到项目里。
+
 #  使用
 
 1. 创建一个Indicator
